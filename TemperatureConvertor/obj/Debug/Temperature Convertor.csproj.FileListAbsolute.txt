@@ -1,0 +1,26 @@
+c:\users\asif shammiri\documents\visual studio 2012\Projects\Temperature Convertor\Temperature Convertor\bin\Debug\Temperature Convertor.exe.config
+c:\users\asif shammiri\documents\visual studio 2012\Projects\Temperature Convertor\Temperature Convertor\bin\Debug\Temperature Convertor.exe
+c:\users\asif shammiri\documents\visual studio 2012\Projects\Temperature Convertor\Temperature Convertor\bin\Debug\Temperature Convertor.pdb
+c:\users\asif shammiri\documents\visual studio 2012\Projects\Temperature Convertor\Temperature Convertor\obj\Debug\Temperature_Convertor.Form1.resources
+c:\users\asif shammiri\documents\visual studio 2012\Projects\Temperature Convertor\Temperature Convertor\obj\Debug\Temperature_Convertor.Properties.Resources.resources
+c:\users\asif shammiri\documents\visual studio 2012\Projects\Temperature Convertor\Temperature Convertor\obj\Debug\Temperature Convertor.csproj.GenerateResource.Cache
+c:\users\asif shammiri\documents\visual studio 2012\Projects\Temperature Convertor\Temperature Convertor\obj\Debug\Temperature Convertor.exe
+c:\users\asif shammiri\documents\visual studio 2012\Projects\Temperature Convertor\Temperature Convertor\obj\Debug\Temperature Convertor.pdb
+D:\Visual Studio Backup\Temperature Convertor\Temperature Convertor\bin\Debug\Temperature Convertor.exe.config
+D:\Visual Studio Backup\Temperature Convertor\Temperature Convertor\obj\Debug\Temperature Convertor.exe
+D:\Visual Studio Backup\Temperature Convertor\Temperature Convertor\obj\Debug\Temperature Convertor.pdb
+D:\Visual Studio Backup\Temperature Convertor\Temperature Convertor\bin\Debug\Temperature Convertor.exe
+D:\Visual Studio Backup\Temperature Convertor\Temperature Convertor\bin\Debug\Temperature Convertor.pdb
+D:\Visual Studio Backup\Temperature Convertor\Temperature Convertor\obj\Debug\Temperature Convertor.csprojResolveAssemblyReference.cache
+D:\Visual Studio Backup\Temperature Convertor\Temperature Convertor\obj\Debug\Temperature_Convertor.Form1.resources
+D:\Visual Studio Backup\Temperature Convertor\Temperature Convertor\obj\Debug\Temperature_Convertor.Properties.Resources.resources
+D:\Visual Studio Backup\Temperature Convertor\Temperature Convertor\obj\Debug\Temperature Convertor.csproj.GenerateResource.Cache
+D:\AMKGit\Gihub\Number-to-words-desktop-App\Temperature Convertor\bin\Debug\Temperature Convertor.exe.config
+D:\AMKGit\Gihub\Number-to-words-desktop-App\Temperature Convertor\obj\Debug\Temperature Convertor.exe
+D:\AMKGit\Gihub\Number-to-words-desktop-App\Temperature Convertor\obj\Debug\Temperature Convertor.pdb
+D:\AMKGit\Gihub\Number-to-words-desktop-App\Temperature Convertor\bin\Debug\Temperature Convertor.exe
+D:\AMKGit\Gihub\Number-to-words-desktop-App\Temperature Convertor\bin\Debug\Temperature Convertor.pdb
+D:\AMKGit\Gihub\Number-to-words-desktop-App\Temperature Convertor\obj\Debug\Temperature Convertor.csprojResolveAssemblyReference.cache
+D:\AMKGit\Gihub\Number-to-words-desktop-App\Temperature Convertor\obj\Debug\Temperature_Convertor.Form1.resources
+D:\AMKGit\Gihub\Number-to-words-desktop-App\Temperature Convertor\obj\Debug\Temperature_Convertor.Properties.Resources.resources
+D:\AMKGit\Gihub\Number-to-words-desktop-App\Temperature Convertor\obj\Debug\Temperature Convertor.csproj.GenerateResource.Cache
